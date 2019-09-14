@@ -35,6 +35,7 @@ _Interesting attributes_
   * [GC and AT skew diagrams](./gc-skew/skew.ipynb)
   * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3269012/
 * They have genese for motility, but are not actually motile
+* Its A/T counts are each almost 3.5x that of the G/C counts
 
 _Other notes_
 * Cannot be cultivated in a laboratory [[1]](https://microbewiki.kenyon.edu/index.php/Wigglesworthia)
